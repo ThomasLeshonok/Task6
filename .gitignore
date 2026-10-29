@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+.env
+.pytest_cache/
+.claude/
+*.pem
+.env.*
+!.env.example
+/.env
+/.env.example
+/ca.pem
